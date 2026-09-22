@@ -1,0 +1,36 @@
+using System;
+
+namespace AsignacionUnidad2
+{
+    public static class CirculoTest
+    {
+        public static void Ejecutar()
+        {
+            Console.WriteLine("========== PRUEBA CLASE CIRCULO ==========\n");
+
+            // c1: constructor sin argumentos
+            Circulo c1 = new Circulo();
+            Console.WriteLine("Círculo 1 (constructor sin argumentos, radio por defecto = 1.0):");
+            Console.WriteLine($"  Radio: {c1.Radio}");
+            Console.WriteLine($"  Área: {c1.CalcularArea():F4}");
+            Console.WriteLine($"  Circunferencia: {c1.CalcularCircunferencia():F4}");
+
+            Console.WriteLine();
+
+            // c2: constructor con argumento radio = 5.0
+            Circulo c2 = new Circulo(5.0);
+            Console.WriteLine("Círculo 2 (constructor con radio = 5.0):");
+            Console.WriteLine($"  Radio: {c2.Radio}");
+            Console.WriteLine($"  Área: {c2.CalcularArea():F4}");
+            Console.WriteLine($"  Circunferencia: {c2.CalcularCircunferencia():F4}");
+
+            Console.WriteLine();
+
+            // Extra: probar constructor con radio inválido
+            Console.WriteLine("Prueba con radio inválido (-3):");
+            Circulo c3 = new Circulo(-3);
+            Console.WriteLine($"  Radio asignado: {c3.Radio}");
+            Console.WriteLine();
+        }
+    }
+}
