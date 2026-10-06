@@ -1,0 +1,15 @@
+C:\Delianny\GestionCursos\GestionCursos\bin\Debug\net8.0\GestionCursos.exe
+C:\Delianny\GestionCursos\GestionCursos\bin\Debug\net8.0\GestionCursos.deps.json
+C:\Delianny\GestionCursos\GestionCursos\bin\Debug\net8.0\GestionCursos.runtimeconfig.json
+C:\Delianny\GestionCursos\GestionCursos\bin\Debug\net8.0\GestionCursos.dll
+C:\Delianny\GestionCursos\GestionCursos\bin\Debug\net8.0\GestionCursos.pdb
+C:\Delianny\GestionCursos\GestionCursos\obj\Debug\net8.0\GestionCursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delianny\GestionCursos\GestionCursos\obj\Debug\net8.0\GestionCursos.AssemblyInfoInputs.cache
+C:\Delianny\GestionCursos\GestionCursos\obj\Debug\net8.0\GestionCursos.AssemblyInfo.cs
+C:\Delianny\GestionCursos\GestionCursos\obj\Debug\net8.0\GestionCursos.csproj.CoreCompileInputs.cache
+C:\Delianny\GestionCursos\GestionCursos\obj\Debug\net8.0\GestionCursos.dll
+C:\Delianny\GestionCursos\GestionCursos\obj\Debug\net8.0\refint\GestionCursos.dll
+C:\Delianny\GestionCursos\GestionCursos\obj\Debug\net8.0\GestionCursos.pdb
+C:\Delianny\GestionCursos\GestionCursos\obj\Debug\net8.0\GestionCursos.genruntimeconfig.cache
+C:\Delianny\GestionCursos\GestionCursos\obj\Debug\net8.0\ref\GestionCursos.dll
+C:\Delianny\GestionCursos\GestionCursos\obj\Debug\net8.0\GestionC.E776ED8F.Up2Date
